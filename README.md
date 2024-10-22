@@ -26,11 +26,11 @@
 
 <br>
 
- [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+ [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=Luis-Henrique8916&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
  
- [!Luis github stats](https://bad-apple-github-readme.vercel.app/api?username=&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
+ [!Luis github stats](https://bad-apple-github-readme.vercel.app/api?username=Luis-Henrique8916&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
  
-[!Luis Henrique current streak](https://streak-stats.demolab.com/?user=&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+[!Luis Henrique current streak](https://streak-stats.demolab.com/?user=Luis-Henrique8916&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
 
 
@@ -40,11 +40,11 @@
  ### TROPHIES
  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=DocenteDevRafael&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Luis-Henrique8916&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
  <p align="center"> 
   Visitors count<br>
-  <img src="https://profile-counter.glitch.me/DocenteDevRafael/count.svg" />
+  <img src="https://profile-counter.glitch.me/Luis-Henrique8916/count.svg" />
  </p>
 
 
